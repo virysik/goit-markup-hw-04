@@ -509,10 +509,10 @@ ul {
   border-radius: 50%;
 }
 
-.social-join-item:nth-child(2) .social-link {
+.footer .social-link:hover,
+.footer .social-link:focus {
   background-color: var(--accent-color);
 }
-
 /* ------END FOOTER------ */
 
 /* ------PORTFOLIO MAIN------ */
